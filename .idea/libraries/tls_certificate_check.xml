@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="tls_certificate_check" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/tls_certificate_check/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/tls_certificate_check/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/tls_certificate_check/src" />
+      <root url="file://$PROJECT_DIR$/deps/tls_certificate_check/src" />
+    </SOURCES>
+  </library>
+</component>

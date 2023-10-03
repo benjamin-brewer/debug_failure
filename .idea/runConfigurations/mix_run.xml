@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="mix run" type="org.elixir_lang.iex.mix.configuration.Type" factoryName="IEx Mix">
+    <module name="debug_failure" />
+    <module name="debug_failure" />
+    <module-filters inherit-application-module-filters="true" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

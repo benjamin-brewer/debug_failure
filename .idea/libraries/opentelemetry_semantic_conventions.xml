@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="opentelemetry_semantic_conventions" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/opentelemetry_semantic_conventions/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/opentelemetry_semantic_conventions/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/opentelemetry_semantic_conventions/lib" />
+      <root url="file://$PROJECT_DIR$/deps/opentelemetry_semantic_conventions/src" />
+      <root url="file://$PROJECT_DIR$/deps/opentelemetry_semantic_conventions/lib" />
+      <root url="file://$PROJECT_DIR$/deps/opentelemetry_semantic_conventions/src" />
+      <root url="file://$PROJECT_DIR$/deps/opentelemetry_semantic_conventions/lib" />
+      <root url="file://$PROJECT_DIR$/deps/opentelemetry_semantic_conventions/src" />
+      <root url="file://$PROJECT_DIR$/deps/opentelemetry_semantic_conventions/lib" />
+      <root url="file://$PROJECT_DIR$/deps/opentelemetry_semantic_conventions/src" />
+    </SOURCES>
+  </library>
+</component>

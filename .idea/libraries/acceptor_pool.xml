@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="acceptor_pool" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/acceptor_pool/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/acceptor_pool/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/acceptor_pool/src" />
+      <root url="file://$PROJECT_DIR$/deps/acceptor_pool/src" />
+    </SOURCES>
+  </library>
+</component>

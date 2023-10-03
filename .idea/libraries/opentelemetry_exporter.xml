@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="opentelemetry_exporter" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/opentelemetry_exporter/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/opentelemetry_exporter/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/opentelemetry_exporter/src" />
+      <root url="file://$PROJECT_DIR$/deps/opentelemetry_exporter/src" />
+    </SOURCES>
+  </library>
+</component>
