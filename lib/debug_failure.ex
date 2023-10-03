@@ -12,7 +12,7 @@ defmodule DebugFailure do
       :world
 
   """
-  def hello(stuff) do
+  def hello do
     :world
   end
 end
